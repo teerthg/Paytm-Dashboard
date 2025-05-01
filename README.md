@@ -45,3 +45,8 @@ The following analysis has been performed on the dataset:
 2. Open the **Power BI** file using Power BI Desktop.
 3. Connect the Power BI dashboard to the dataset stored in this repository.
 4. Interact with the dashboard by selecting various filters to explore the data.
+
+
+## Contact Information:
+- Email: teerth.gupta@example.com
+- LinkedIn: [Teerth Gupta](https://www.linkedin.com/in/teerthgupta/)
